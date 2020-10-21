@@ -1,0 +1,1 @@
+['YouTube', 'Twitch', 'reddit', 'Chrome', 'Spotify', 'Word', 'Steam', 'Other']
