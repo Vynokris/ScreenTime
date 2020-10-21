@@ -1,2 +1,0 @@
-DD/MM/AAAA
-{'None':0}
