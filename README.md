@@ -1,5 +1,5 @@
 # Screen Time App
-This app records the usage time for each specified app. It shows these times in a bar chart. It also saves the times so that it can show the PC usage time on previous days. This app was built using python and is intended for use on Windows 10.
+This app records the usage time for each specified app. It shows these times in a bar chart. It also saves the times so that it can show the total usage time on previous days. This app was built using python and is intended for use on Windows 10.
 
 ### 1. General information
 - You can change tab by selecting one in the menu at the top. The default one is "Today".
