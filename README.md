@@ -1,21 +1,21 @@
 This app records the usage time for each specified app. It shows it in a bar chart. It also saves the times so that it can show you the app usage time on previous days.
 
-***1. General information
+###1. General information
 - You can change tab by selecting one in the menu at the top. The default one is "Today".
 - The default update interval of the timer is 5 minutes. This means time will be added to the timer only every 5 minutes. To change this, see number 4.
 - When the app is closed, times are saved.
 - If the app is open and the date changes, the times are saved to the day they were recorded.
 
-***2. Tab: "Today"
+###2. Tab: "Today"
 - Today's times are shown in a bar chart in the middle of the window.
 - At the bottom today's total time is shown.
 - The "Details" tick box enables/disables the individual app times.
 - The button at the top left pauses/resumes the timer.
 
-***3. Tab: "History"
+###3. Tab: "History"
 - This tab shows a list of the total time of previous days. First is the date, then the total time, and then the mainly used app.
 
-***4. Tab: "Options"
+###4. Tab: "Options"
 - You can enter the timer update interval in the first line.
 - You can change the list of apps that you use in the second line. This is caps sensitive. To know the name of an app in windows 10, you can hover over the app icon in the taskbar, the name should show up in white at the top. Entering 
   only a part of the app name is possible (ex: "YouTube - Google Chrome" can be shortened to "YouTube"). All app names must be separated by a comma and a space: ", " (ex: "YouTube, reddit, Twitch")
