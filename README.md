@@ -8,11 +8,11 @@ This app records the usage time for each specified app. It shows these times in 
 - The default update interval of the timer is 5 minutes. This means time will be added to the timer only every 5 minutes. To change this, see number 4.
 
 ### 2. Tab: "Today"
-![Tab: "Today"](https://i.imgur.com/q7yjwAE.png)
 - Today's times are shown in a bar chart in the middle of the window.
-- At the bottom today's total time is shown.
-- The "Details" tick box enables/disables the individual app times.
+- At the bottom, today's total time is shown.
+- The "Details" tick box enables/disables the individual app times (under the app names on the chart).
 - The button at the top left pauses/resumes the timer.
+![Tab: "Today"](https://i.imgur.com/q7yjwAE.png)
 
 ### 3. Tab: "History"
 - This tab shows a list of the total time of previous days. First is the date, then the total time, and then the mainly used app.
