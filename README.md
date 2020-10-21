@@ -1,10 +1,10 @@
 # Screen Time App
-This app records the usage time for each specified app. It shows it in a bar chart. It also saves the times so that it can show you the app usage time on previous days.
+This app records the usage time for each specified app. It shows these times in a bar chart. It also saves the times so that it can show the PC usage time on previous days. This app was built using python and is intended for use on Windows 10.
 
 ### 1. General information
 - You can change tab by selecting one in the menu at the top. The default one is "Today".
 - The default update interval of the timer is 5 minutes. This means time will be added to the timer only every 5 minutes. To change this, see number 4.
-- When the app is closed, times are saved.
+- If the app is closed, times are saved.
 - If the app is open and the date changes, the times are saved to the day they were recorded.
 
 ### 2. Tab: "Today"
