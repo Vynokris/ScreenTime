@@ -1,6 +1,8 @@
 # Screen Time App
 This app records the usage time for each specified app. It shows these times in a bar chart. It also saves the times so that it can show the total usage time on previous days. This app was built using python and is intended for use on Windows 10.
 
+![Download (Latest Release: v1.0)](https://github.com/Vynokris/ScreenTime/releases/download/v1.0/Screen.Time.zip)
+
 ### 1. General information
 - If the app is closed, times are saved.
 - If the app is open and the date changes, the times are saved to the day they were recorded.
