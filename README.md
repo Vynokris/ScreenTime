@@ -2,12 +2,13 @@
 This app records the usage time for each specified app. It shows these times in a bar chart. It also saves the times so that it can show the total usage time on previous days. This app was built using python and is intended for use on Windows 10.
 
 ### 1. General information
-- You can change tab by selecting one in the menu at the top. The default one is "Today".
-- The default update interval of the timer is 5 minutes. This means time will be added to the timer only every 5 minutes. To change this, see number 4.
 - If the app is closed, times are saved.
 - If the app is open and the date changes, the times are saved to the day they were recorded.
+- You can change tab using the dropdown menu at the top. The default tab is "Today".
+- The default update interval of the timer is 5 minutes. This means time will be added to the timer only every 5 minutes. To change this, see number 4.
 
 ### 2. Tab: "Today"
+![Tab: "Today"](https://i.imgur.com/q7yjwAE.png)
 - Today's times are shown in a bar chart in the middle of the window.
 - At the bottom today's total time is shown.
 - The "Details" tick box enables/disables the individual app times.
