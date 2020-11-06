@@ -3,7 +3,7 @@ This app records the usage time for each specified app. It shows these times in 
 
 [All Releases](https://github.com/Vynokris/ScreenTime/releases)
 
-[Direct Download (Latest Release: v1.3)](https://github.com/Vynokris/ScreenTime/releases/download/v1.3/Screen.Time.v1.3.zip)
+[Direct Download (Latest Release: v1.4)](https://github.com/Vynokris/ScreenTime/releases/download/v1.4/Screen.Time.v1.4.zip)
 
 ### 1. General information
 - If the app is closed, times are saved.
